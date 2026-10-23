@@ -13,7 +13,7 @@ Desenvolvedor em início de carreira, com foco em **Python, automação e aplica
 |---|---|
 | Linguagens | Python, JavaScript |
 | Front-end e desktop | React, Vite, Electron |
-| Automação | PyAutoGUI, OpenCV, PyGetWindow |
+| Automação | PyAutoGUI (incluindo busca de imagem na tela), PyGetWindow |
 | Testes | unittest, node:test |
 | Dados | Excel, Power BI, SQL (em aprendizado) |
 | Ferramentas | Git, GitHub |
